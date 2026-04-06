@@ -350,7 +350,8 @@ Sahyadri College of Engineering and Management
 Department of CSE (AI & ML)
 
 ---
-
+# Deployment
+https://dbms-gwhr4dqji-chiragravi1002-1999s-projects.vercel.app/
 # License
 
 This project was developed for academic purposes as part of the **Database Management Systems Mini Project**.

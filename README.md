@@ -337,14 +337,7 @@ Possible future enhancements include:
 * Mobile application support
 * Automated plagiarism detection
 
----
 
-# Contributors
-
-Chirag R K
-Manasvi B M
-Sthuthi M Poojary
-Vaishnavi Prabhu
 
 Sahyadri College of Engineering and Management
 Department of CSE (AI & ML)
